@@ -1,0 +1,5 @@
+insert into ghost (id,birth,bio,role,name) values ('1','1970', 'Aramaki provides a large amount of diplomatic support', 'Chief Executive Director of Public Security Section 9', 'Daisuke Aramaki');
+insert into ghost(id,birth,bio,role,name) values ('2','1998', 'She is second in command in Section 9. She is a very effective', 'Squad leader of Public Security Section 9', 'Motoko Kusanagi');
+insert into ghost(id,birth,bio,role,name) values ('3','2003', 'Togusa is married and has a young daughter', 'Investigator for Public Security Section 9', 'Togusa');
+insert into ghost (id,birth,bio,role,name)values ('4','1994', 'Is an ex-soldier and mercenary', 'Lead investigator for Public Security Section 9', 'Batou Buttetsu');
+insert into ghost(id,birth,bio,role,name) values ('5','2029', 'is an artificial intelligence program and major antagonist of the manga and movie', 'AI program', 'Puppet Master/Project 2501');

@@ -1,0 +1,9 @@
+com\example\ghost\dto\GhostDto.class
+com\example\ghost\entities\GhostEntity.class
+com\example\ghost\services\Ghost.class
+com\example\ghost\services\impl\GhostImpl.class
+com\example\ghost\exceptions\BadRequestException.class
+com\example\ghost\SwaggerConfig.class
+com\example\ghost\controllers\GhostControllers.class
+com\example\ghost\dao\GhostDao.class
+com\example\ghost\GhostInTheShellApplication.class

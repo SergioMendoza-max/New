@@ -1,0 +1,5 @@
+insert into ghost (id,birth,bio,role,name) values ('1','1970-12-25', 'Aramaki provides a large amount of diplomatic support', 'Chief Executive Director of Public Security Section 9', 'Daisuke Aramaki');
+insert into ghost(id,birth,bio,role,name) values ('2','1998-05-30', 'Cyborg ex-soldier', 'Squad leader of Public Security Section 9', 'Motoko Kusanagi');
+insert into ghost(id,birth,bio,role,name) values ('3','2003-02-14', 'Togusa is married and has a young daughter', 'Investigator for Public Security Section 9', 'Togusa');
+insert into ghost (id,birth,bio,role,name)values ('4','1994-11-18', 'Is an ex-soldier and mercenary', 'Lead investigator for Public Security Section 9', 'Batou Buttetsu');
+insert into ghost(id,birth,bio,role,name) values ('5','2029-01-01', 'is an artificial intelligence created by Section 6', 'AI program', 'Puppet Master');
